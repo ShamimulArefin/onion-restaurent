@@ -1,0 +1,23 @@
+.banner{
+    background-image: url('../../images/bannerbackground.png');
+    background-size: cover;
+    min-height: 80vh;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+}
+.input-form{
+    border-radius: 20px;
+    border: none;
+}
+.search-btn,
+.search-btn:hover
+{
+    background-color: #f8704e;
+    border: none;
+    border-radius: 20px;
+}
+.search{
+    padding-left: 5px;
+    padding-right: 5px;
+}

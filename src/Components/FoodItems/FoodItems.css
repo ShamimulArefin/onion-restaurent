@@ -1,0 +1,12 @@
+.itemNav{
+    margin-top: 15px;
+}
+.itemBtn{
+    color: #ff6d49;
+    font-weight: 500;
+    font-size: 18px;
+}
+.itemBtn:hover{
+    text-decoration: underline;
+    color: #ff6d49;
+}

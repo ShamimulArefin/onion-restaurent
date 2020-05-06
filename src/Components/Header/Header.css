@@ -1,0 +1,21 @@
+
+.logBtn{
+    color: black;
+    font-weight: 600;
+    text-decoration: none;
+}
+.main-button{
+    background-color: #fd7b5a;
+    border-radius: 20px;
+    
+}
+.main-button span{
+    color: #fafafa;
+    height: 100%;
+    padding-right: 5px;
+    padding-left: 5px;
+    font-weight: 600;
+}
+.logo{
+    width: 145px;
+}
